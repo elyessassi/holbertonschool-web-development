@@ -1,0 +1,1 @@
+Here there is the css file and the images used in the page
